@@ -2255,6 +2255,19 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":4,
+         "firstgid":10696,
+         "image":"TILES\/Basketball.png",
+         "imageheight":192,
+         "imagewidth":128,
+         "margin":0,
+         "name":"Basketball",
+         "spacing":0,
+         "tilecount":24,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
