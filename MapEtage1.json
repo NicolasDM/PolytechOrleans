@@ -127,7 +127,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/PolytechOrleans\/map.json#start_stairs"
+                 "value":"..\/@\/polytech-orleans\/before-crea-campus\/rdc"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/PolytechOrleans\/MapEtage2.json#start_stairsEtage2"
+                 "value":"..\/@\/polytech-orleans\/before-crea-campus\/etage2"
                 }],
          "type":"tilelayer",
          "visible":true,
