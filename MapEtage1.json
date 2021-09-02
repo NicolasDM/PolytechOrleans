@@ -127,7 +127,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/polytech-orleans\/before-crea-campus\/rdc"
+                 "value":"https:\/\/play.workadventu.re\/@\/polytech-orleans\/before-crea-campus\/rdc"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/polytech-orleans\/before-crea-campus\/etage2"
+                 "value":"https:\/\/play.workadventu.re\/@\/polytech-orleans\/before-crea-campus\/etage2"
                 }],
          "type":"tilelayer",
          "visible":true,
