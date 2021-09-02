@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/polytech-orleans\/before-crea-campus\/etage1_#start_stairsEtage1_2"
+                 "value":"\/@\/polytech-orleans\/before-crea-campus\/etage1#start_stairsEtage1_2"
                 }],
          "type":"tilelayer",
          "visible":true,
