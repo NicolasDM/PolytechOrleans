@@ -127,7 +127,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/polytech-orleans\/before-crea-campus\/rdc"
+                 "value":"\/@\/polytech-orleans\/before-crea-campus\/rdc#start_stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
